@@ -58,7 +58,7 @@
 	"id": "https://raw.githubusercontent.com/pprw/dh2025_workshop/main/inferno_files/Inferno_english.xml?person_annotation_20250715145502541",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-07-15T13:55:02.541Z",
-	"dcterms:modified": "2025-07-15T13:55:02.541Z",
+	"dcterms:modified": "2025-07-15T14:02:19.132Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pprw",
 		"@type": [
@@ -198,7 +198,7 @@
          <div type="canto">
             <pb facs="https://upload.wikimedia.org/wikipedia/commons/3/38/Inferno_Canto_4_four_bards.jpg"/>
             <head>The Inferno: Canto IV</head>
-            <byline><persName key="Dante Alighieri, 1265-1321." ref="http://viaf.org/viaf/97105654" xml:id="dante01">Dante Alighieri</persName></byline>
+            <byline><persName key="Dante Alighieri, 1265-1321." ref="http://viaf.org/viaf/97105654" xml:id="dante01" role="aut">Dante Alighieri</persName></byline>
             <lg n="1" xml:id="lg001">
                <l n="1">Broke the deep lethargy within my head</l>
                <l n="2">A heavy thunder, so that I upstarted,</l>
